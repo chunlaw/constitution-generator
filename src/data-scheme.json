@@ -1,0 +1,58 @@
+[
+  {
+    "type": "string",
+    "title": "你的小隊",
+    "default": "你的小隊"
+  },
+  {
+    "type": "string",
+    "title": "版本",
+    "default": "2019.12.31"
+  },
+  {
+    "type": "textarea",
+    "title": "目標",
+    "default":
+      "一、公民協作、資源共享。\n二、超越壓迫的社會建制。"
+  },
+  {
+    "type": "string",
+    "title": "你的成員",
+    "default": "你的成員"
+  },
+  {
+    "type": "string",
+    "title": "大會名稱",
+    "default": "大會名稱"
+  },
+  {
+    "type": "string",
+    "title": "臨時會名稱",
+    "default": "臨時會名稱"
+  },
+  {
+    "type": "string",
+    "title": "領導層名稱",
+    "default": "領導層名稱"
+  },
+  {
+    "type": "string",
+    "title": "主席",
+    "default": "主席"
+  },
+  {
+    "type": "string",
+    "title": "副主席",
+    "default": "副主席"
+  },
+  {
+    "type": "string",
+    "title": "大會",
+    "default": "大會"
+  },
+  {
+    "type": "string",
+    "title": "臨時大會",
+    "default": "臨時大會"
+  }
+]
